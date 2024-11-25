@@ -1,0 +1,1 @@
+# Metody-forEach-a-map
